@@ -1,0 +1,29 @@
+{
+  "title": "Welcome to SIG Card Management",
+  "subtitle": "Streamline your signature card workflows with a secure, modern platform.",
+  "bodyParagraphs": [
+    "SIG Card Management simplifies the process of creating, managing, and verifying signature cards for all account types. Our platform is designed to help bank staff work efficiently while maintaining the highest standards of security and compliance.",
+    "Whether you are onboarding new account holders, updating signer information, or conducting identity verification, our step-by-step workflow guides you through every stage of the process."
+  ],
+  "featureHighlights": [
+    {
+      "title": "Multi-Step Card Creation",
+      "description": "Create signature cards with a guided workflow covering account info, signer details, verification, and review."
+    },
+    {
+      "title": "Identity Verification",
+      "description": "Verify signer identities using multiple methods including ID verification, knowledge-based authentication, in-person verification, and digital signatures."
+    },
+    {
+      "title": "Account Management",
+      "description": "Manage signature cards across all account types including checking, savings, money market, trust, and business accounts."
+    },
+    {
+      "title": "Secure & Compliant",
+      "description": "Built with session management, rate limiting, audit logging, and role-based access controls to meet regulatory requirements."
+    }
+  ],
+  "ctaButtonText": "Get Started",
+  "ctaSecondaryButtonText": "Learn More",
+  "footerNote": "Need help? Contact your system administrator for access and support."
+}
